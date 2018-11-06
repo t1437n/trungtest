@@ -1,0 +1,30 @@
+{
+  "MACLENIN1_BIS1" : {
+    "BATDAU" : "2-2-2019",
+    "KETHUC" : "3-3-2019",
+    "PHONGHOC" : "P501QT",
+    "SOLUONGSINHVIEN" : 100,
+    "SOLUONGTINCHI" : 1
+  },
+  "MACLENIN1_BIS2" : {
+    "BATDAU" : "2-2-2019",
+    "KETHUC" : "3-3-2019",
+    "PHONGHOC" : "P501QT",
+    "SOLUONGSINHVIEN" : 100,
+    "SOLUONGTINCHI" : 1
+  },
+  "TOANA1BIS" : {
+    "BATDAU" : "2-2-2019",
+    "KETHUC" : "3-3-2019",
+    "PHONGHOC" : "P501QT",
+    "SOLUONGSINHVIEN" : 100,
+    "SOLUONGTINCHI" : 1
+  },
+  "TOANA2BIS1" : {
+    "BATDAU" : "2-2-2019",
+    "KETHUC" : "3-3-2019",
+    "PHONGHOC" : "P501QT",
+    "SOLUONGSINHVIEN" : 100,
+    "SOLUONGTINCHI" : 1
+  }
+}
