@@ -1,0 +1,279 @@
+{
+  "2018-2019" : {
+    "HK1" : {
+      "212121" : {
+        "MACLENIN1_BIS1" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        },
+        "MACLENIN1_BIS2" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        },
+        "TOANA1BIS" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        },
+        "TOANA2BIS1" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        }
+      },
+      "212122" : {
+        "TUTUONGHCM_B1" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        },
+        "TUTUONGHCM_B2" : {
+          "BATDAU" : "2-2-2019",
+          "KETHUC" : "3-3-2019",
+          "PHONGHOC" : "P501QT",
+          "SOLUONGSINHVIEN" : 100,
+          "SOLUONGTINCHI" : 1
+        }
+      }
+    }
+  },
+  "DANHSACHGIANGVIEN" : {
+    "212121" : {
+      "ID" : "nguyenthiminhkhai@gmail.com",
+      "TEN" : "Nguyễn Thị Minh"
+    },
+    "212122" : {
+      "ID" : "nguyenvantam@gmail.com",
+      "TEN" : "Nguyễn Văn Tâm"
+    }
+  },
+  "DANHSACHSINHVIEN" : {
+    "2121114121" : {
+      "TEN" : "Nguyễn Đăng Thiện Tâm",
+      "URL_HINHANH" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/hinhsinhvien%2Ftam.jpg?alt=media&token=c093c01a-6ef8-4882-8e67-f1176f9fef19"
+    },
+    "2121118966" : {
+      "TEN" : "Nguyễn Xuân Trung",
+      "URL_HINHANH" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/hinhsinhvien%2Ftrung.jpg?alt=media&token=1f27ddc0-0ced-4605-804b-72e61d4bd50c"
+    },
+    "2121118969" : {
+      "TEN" : "Phạm Đức Dương",
+      "URL_HINHANH" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/hinhsinhvien%2Fduong.jpg?alt=media&token=c1b14d48-176a-45f4-a039-9bea77036164"
+    },
+    "2121118988" : {
+      "TEN" : "Huỳnh Thị Như Minh",
+      "URL_HINHANH" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/hinhsinhvien%2Fnhuminh.jpg?alt=media&token=e4a6308d-6fe9-4738-95da-792af4501f23"
+    }
+  },
+  "DIEMDANHSINHVIEN_DIHOC" : {
+    "CMU_SE201" : {
+      "Attendance" : {
+        "2121118966" : {
+          "10-18-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "20:5:40",
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/11110.jpg?alt=media&token=82ec6c90-7e5b-447a-bcf9-9e2f10a6c926"
+          },
+          "15-18-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "20:5:40",
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/11110.jpg?alt=media&token=82ec6c90-7e5b-447a-bcf9-9e2f10a6c926"
+          }
+        },
+        "2121118988" : {
+          "10-18-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "20:5:52",
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/21212111122.jpg?alt=media&token=c72b3904-f7b3-40fa-9303-80902deb183b"
+          }
+        }
+      },
+      "Image" : {
+        "27-10-2018" : {
+          "20:10:20" : {
+            "Url" : "http://www.abcd.jpg"
+          },
+          "20:1:40" : {
+            "Url" : "http://www.abcd.jpg"
+          }
+        },
+        "29-10-2018" : {
+          "20:10:20" : {
+            "Url" : "http://www.abcd123.jpg"
+          },
+          "20:10:40" : {
+            "Url" : "http://www.abcd.jpg"
+          }
+        }
+      },
+      "KETQUATHEONGAY" : {
+        "29-10-2018" : {
+          "DIHOC" : {
+            "ID" : "2121118988"
+          },
+          "VANGHOC" : {
+            "ID" : "2121114121"
+          }
+        }
+      }
+    },
+    "MACLENIN1_BIS2" : {
+      "Attendance" : {
+        "2121114121" : {
+          "06-11-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "10:44",
+            "Url" : "gs://student-rollup.appspot.com/06-11-2018/Blacklist/unknown.jpg"
+          }
+        },
+        "2121118966" : {
+          "06-11-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "10:48",
+            "Url" : "gs://student-rollup.appspot.com/06-11-2018/Blacklist/unknown.jpg"
+          }
+        },
+        "2121118969" : {
+          "06-11-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "10:44",
+            "Url" : "gs://student-rollup.appspot.com/06-11-2018/Blacklist/unknown.jpg"
+          }
+        },
+        "2121118988" : {
+          "06-11-2018" : {
+            "KETQUA" : 1,
+            "THOIGIAN" : "10:48",
+            "Url" : "gs://student-rollup.appspot.com/06-11-2018/Blacklist/unknown.jpg"
+          }
+        }
+      },
+      "Image" : {
+        "01-11-2018" : {
+          "16:03" : "diemdanh/MACLENIN1_BIS2/01-11-2018/16:03",
+          "16:07" : "diemdanh/MACLENIN1_BIS2/01-11-2018/16:07",
+          "20:54" : "diemdanh/MACLENIN1_BIS2/01-11-2018/20:54",
+          "20:57" : "diemdanh/MACLENIN1_BIS2/01-11-2018/20:57",
+          "20:59" : "diemdanh/MACLENIN1_BIS2/01-11-2018/20:59",
+          "21:02" : "diemdanh/MACLENIN1_BIS2/01-11-2018/20:59",
+          "21:14" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:14",
+          "21:16" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:16",
+          "21:17" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:17",
+          "21:18" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:18",
+          "21:19" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:19"
+        },
+        "02-11-2018" : {
+          "02:10" : "diemdanh/MACLENIN1_BIS2/02-11-2018/02:10",
+          "04:46" : "diemdanh/MACLENIN1_BIS2/02-11-2018/04:46",
+          "14:24" : "diemdanh/MACLENIN1_BIS2/02-11-2018/14:24",
+          "19:47" : "diemdanh/MACLENIN1_BIS2/02-11-2018/19:47",
+          "20:19" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:19",
+          "20:20" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:20",
+          "20:29" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:29",
+          "20:44" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:44",
+          "20:48" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:48",
+          "20:49" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:49",
+          "20:52" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:52",
+          "20:55" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:55",
+          "21:28" : "diemdanh/MACLENIN1_BIS2/02-11-2018/21:28",
+          "21:31" : "diemdanh/MACLENIN1_BIS2/02-11-2018/21:31",
+          "21:42" : "diemdanh/MACLENIN1_BIS2/02-11-2018/21:42",
+          "4:32" : "diemdanh/MACLENIN1_BIS2/02-11-2018/4:32",
+          "4:44" : "diemdanh/MACLENIN1_BIS2/02-11-2018/4:44",
+          "4:46" : "diemdanh/MACLENIN1_BIS2/02-11-2018/4:46",
+          "6:23" : "diemdanh/MACLENIN1_BIS2/02-11-2018/6:23",
+          "6:25" : "diemdanh/MACLENIN1_BIS2/02-11-2018/6:25",
+          "6:27" : "diemdanh/MACLENIN1_BIS2/02-11-2018/6:27",
+          "6:28" : "diemdanh/MACLENIN1_BIS2/02-11-2018/6:28",
+          "7:33" : "diemdanh/MACLENIN1_BIS2/02-11-2018/7:33"
+        },
+        "03-11-2018" : {
+          "09:24" : "diemdanh/MACLENIN1_BIS2/01-11-2018/21:14",
+          "11:52" : "diemdanh/MACLENIN1_BIS2/03-11-2018/11:52",
+          "11:53" : "diemdanh/MACLENIN1_BIS2/03-11-2018/11:53",
+          "11:54" : "diemdanh/MACLENIN1_BIS2/03-11-2018/11:54",
+          "11:56" : "diemdanh/MACLENIN1_BIS2/03-11-2018/11:56",
+          "11:57" : "diemdanh/MACLENIN1_BIS2/03-11-2018/11:57",
+          "18:08" : "diemdanh/MACLENIN1_BIS2/03-11-2018/18:08",
+          "18:16" : "diemdanh/MACLENIN1_BIS2/03-11-2018/18:16"
+        },
+        "04-11-2018" : {
+          "1:30" : "diemdanh/MACLENIN1_BIS2/02-11-2018/20:52"
+        },
+        "05-11-2018" : {
+          "12:28" : "diemdanh/MACLENIN1_BIS2/05-11-2018/12:28",
+          "17:55" : "diemdanh/MACLENIN1_BIS2/05-11-2018/17:55",
+          "19:16" : "diemdanh/MACLENIN1_BIS2/05-11-2018/19:16",
+          "21:41" : "diemdanh/MACLENIN1_BIS2/05-11-2018/21:41",
+          "21:44" : "diemdanh/MACLENIN1_BIS2/05-11-2018/21:44",
+          "21:46" : "diemdanh/MACLENIN1_BIS2/05-11-2018/21:46",
+          "21:47" : "diemdanh/MACLENIN1_BIS2/05-11-2018/21:47",
+          "21:50" : "diemdanh/MACLENIN1_BIS2/05-11-2018/21:50",
+          "22:00" : "diemdanh/MACLENIN1_BIS2/05-11-2018/22:00",
+          "22:01" : "diemdanh/MACLENIN1_BIS2/05-11-2018/22:01",
+          "6:40" : "diemdanh/MACLENIN1_BIS2/05-11-2018/6:40"
+        },
+        "06-11-2018" : {
+          "10:04" : "diemdanh/MACLENIN1_BIS2/05-11-2018/22:00"
+        },
+        "29-10-2018" : {
+          "7:26" : {
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/diemdanh%2FMACLENIN1_BIS2%2F29-10-2018%2F7:26?alt=media&token=3aa2c54f-3ada-40ad-9650-09ce659b8a44"
+          }
+        },
+        "30-10-2018" : {
+          "17:17" : {
+            "Url" : "http://www.abcd.jpg"
+          },
+          "18:3" : {
+            "KETQUA" : 0,
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/diemdanh%2FMACLENIN1_BIS2%2F30-10-2018%2F18:3?alt=media&token=1d3b940f-78a1-445c-9d8d-902f8785c0ef"
+          },
+          "19:48" : {
+            "KETQUA" : 0,
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/diemdanh%2FMACLENIN1_BIS2%2F30-10-2018%2F19:48?alt=media&token=f19f5926-6e05-4975-843f-29573152bac2"
+          },
+          "19:49" : {
+            "KETQUA" : 0,
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/diemdanh%2FMACLENIN1_BIS2%2F30-10-2018%2F19:49?alt=media&token=7bceae65-0904-436f-a79c-df6fefc52007"
+          },
+          "21:43" : {
+            "Url" : "https://firebasestorage.googleapis.com/v0/b/student-rollup.appspot.com/o/diemdanh%2FMACLENIN1_BIS2%2F30-10-2018%2F21:43?alt=media&token=f90a3cc5-4e90-40dd-995f-4b2630b062a9"
+          }
+        },
+        "31-10-2018" : {
+          "13:20" : "diemdanh/MACLENIN1_BIS2/31-10-2018/13:20"
+        }
+      }
+    }
+  },
+  "DIEMDANHSINHVIEN_DITHI" : {
+    "CMUSE202" : {
+      "20-10-2018" : {
+        "P101QT" : {
+          "2121114121" : {
+            "KETQUA" : 1,
+            "URL_HINHANH" : "http://firebase.anh?232222xxx"
+          },
+          "2121118988" : {
+            "KETQUA" : 1,
+            "URL_HINHANH" : "http://firebase.anh?232xxx"
+          }
+        }
+      }
+    }
+  },
+  "Get" : [ null, "2121118969", "2121118966", "2121118988", "2121114121" ]
+}
