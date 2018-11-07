@@ -1,0 +1,23 @@
+[{
+  "BATDAU" : "2-2-2019",
+  "KETHUC" : "3-3-2019",
+  "PHONGHOC" : "P501QT",
+  "SOLUONGSINHVIEN" : 100,
+  "SOLUONGTINCHI" : 1
+},
+{
+  "BATDAU" : "2-2-2019",
+  "KETHUC" : "3-3-2019",
+  "PHONGHOC" : "BBBBB",
+  "SOLUONGSINHVIEN" : 100,
+  "SOLUONGTINCHI" : 1
+},
+{
+  "BATDAU" : "2-2-2019",
+  "KETHUC" : "3-3-2019",
+  "PHONGHOC" : "AAAAA",
+  "SOLUONGSINHVIEN" : 100,
+  "SOLUONGTINCHI" : 1
+}
+
+]
